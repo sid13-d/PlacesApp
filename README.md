@@ -1,6 +1,7 @@
 # Project Name
 
-Welcome to the PlacesApp repository! This project [brief description].
+Welcome to the PlacesApp repository! I created this project so that you can add all the places you wanna go the main aim was not that
+the main aim was to learn how to handle http request in React which I learned through this small side project.
 
 ## Getting Started
 
